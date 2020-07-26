@@ -1,8 +1,11 @@
+html {
+    font-size: 18px;
+}
 h1 {
     color: blue;
-    font-size: 48px;
+    font-size: 4,8rem;
 
 }
 p {
-    font-size: 18px;
+    font-size: 1,8rem;
 }
